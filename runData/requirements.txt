@@ -1,0 +1,12 @@
+pkg_resources==Not Installed
+pathlib==Not Installed
+json==Not Installed
+sys==Not Installed
+time==Not Installed
+django==5.0.6
+apps==Not Installed
+numpy==1.26.4
+os==Not Installed
+pandas==2.2.2
+selenium==4.21.0
+re==Not Installed

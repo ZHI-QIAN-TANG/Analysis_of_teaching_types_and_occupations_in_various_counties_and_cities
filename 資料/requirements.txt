@@ -1,0 +1,6 @@
+os==Not Installed
+selenium==4.21.0
+pkg_resources==Not Installed
+time==Not Installed
+re==Not Installed
+pandas==2.2.2

@@ -1,0 +1,8 @@
+re==Not Installed
+wandb==0.16.6
+torch==2.3.0
+sklearn==Not Installed
+transformers==4.41.2
+pkg_resources==Not Installed
+os==Not Installed
+pandas==2.2.2
