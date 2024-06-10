@@ -10,3 +10,5 @@
 	1.先跑run_train
 	2.在跑run_test看看資料對不對
 	3.最後跑Run_occupation_classification開始整理資料
+
+4.每個資料夾都有Required_libraries，這是拿來整理出用了那些函式庫的
