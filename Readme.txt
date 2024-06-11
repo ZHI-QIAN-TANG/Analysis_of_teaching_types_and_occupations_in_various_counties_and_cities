@@ -12,3 +12,5 @@
 	3.最後跑Run_occupation_classification開始整理資料
 
 4.每個資料夾都有Required_libraries，這是拿來整理出用了那些函式庫的
+
+5.報告網址: https://www.canva.com/design/DAGH0-vcOZ4/UJhib0o_8lQ6dngv4J3Ufg/edit?utm_content=DAGH0-vcOZ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
